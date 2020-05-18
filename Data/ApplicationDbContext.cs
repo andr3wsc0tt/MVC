@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using AspNetCoreAlbum.Models;
 
 namespace AspNetCoreAlbum.Data
 {
@@ -12,5 +13,7 @@ namespace AspNetCoreAlbum.Data
             : base(options)
         {
         }
+
+        public DbSet<AlbumItem> Items { get; set; }
     }
 }

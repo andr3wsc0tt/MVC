@@ -34,3 +34,5 @@ c:\Users\Andrew\Documents\TechCareers\dotnet\AspNetCoreAlbum\obj\Debug\netcoreap
 c:\Users\Andrew\Documents\TechCareers\dotnet\AspNetCoreAlbum\obj\Debug\netcoreapp2.1\AspNetCoreAlbum.dll
 c:\Users\Andrew\Documents\TechCareers\dotnet\AspNetCoreAlbum\obj\Debug\netcoreapp2.1\AspNetCoreAlbum.pdb
 c:\Users\Andrew\Documents\TechCareers\dotnet\AspNetCoreAlbum\obj\Debug\netcoreapp2.1\AspNetCoreAlbum.csproj.CopyComplete
+C:\Users\Andrew\Documents\TechCareers\dotnet\AspNetCoreAlbum\obj\Debug\netcoreapp2.1\Razor\Views\Album\Index.g.cshtml.cs
+C:\Users\Andrew\Documents\TechCareers\dotnet\AspNetCoreAlbum\obj\Debug\netcoreapp2.1\Razor\Views\Album\AddAlbumPartial.g.cshtml.cs

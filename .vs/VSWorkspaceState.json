@@ -2,9 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Models",
-    "\\Views"
+    "\\Data\\Migrations",
+    "\\Services",
+    "\\Views",
+    "\\Views\\Album",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js"
   ],
-  "SelectedNode": "\\Controllers\\AlbumControllers.cs",
+  "SelectedNode": "\\Services\\AlbumItemService.cs",
   "PreviewInSolutionExplorer": false
 }
